@@ -34,7 +34,7 @@ Spawn Void: Disabled
 
 # LATEST UPDATE(S)
 
-REWORKED SETUP INSTRUCTIONS & NEW CHAT SYSTEM
+REWORKED SETUP INSTRUCTIONS & NEW CHAT SYSTEM (4/10/2025)
 
 - Added new chat system. No more nofitications.
 - Reworked setup instructions.
