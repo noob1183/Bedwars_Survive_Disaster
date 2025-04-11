@@ -47,10 +47,8 @@ local BlocksCurrentAmounts = {
 
 local ChatMessages = {
     ['SupportsMessages'] = {
-        'Please support me by follow me on social medias and subscribe to my yt channel!!';
-        "Go to my website bedcraftstudio.carrd.co and to donate any amount u want in PayPal!!";
-        'Want more game modes? Go to bedcraftstudio.carrd.co and get more there!!';
-        'Want to check for script updates? Go to bedcraftstudio.carrd.co then find the "Update Notes"';
+        'Want more game modes? Go to https://github.com/noob1183 and get more there!!';
+        'Want to check for game mode updates? Go to https://github.com/noob1183/Bedwars_Survive_Disaster then find "LATEST UPDATE(S)".';
         'Follow me on Roblox in my profile to help me get verified badge (@Tranquananh2811)!!';
     };
  
