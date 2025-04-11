@@ -17,7 +17,7 @@ Keep inventory: Enabled
 Capture Points: Disabled
 Kits: Disabled
 Shop Items: Disabled
-Anti-cheat: Disabled
+Anti-cheat: Disabled (Use /setac disabled command in chat)
 Spawn Monarch: Disabled
 Spawn Ores: Disabled
 Spawn Titan: Disabled
