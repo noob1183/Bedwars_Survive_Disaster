@@ -4,7 +4,7 @@ When the match start, you got the tools and blocks and 2 minutes to build a shel
 
 ## SETUP INSTRUCTIONS
 
-_IMPORTANT NOTE: This game mode only support 5v5, 30v30, doubles, and squads_
+_IMPORTANT NOTE: This game mode only support 5v5, 30v30, doubles, and squads. Other game modes will bug out the game!_
 
 **HOST PANEL**
 
