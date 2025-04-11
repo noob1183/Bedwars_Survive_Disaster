@@ -2,6 +2,8 @@
 
 When the match start, you got the tools and blocks and 2 minutes to build a shelter to hide from the disaster after the 2 minutes ends. When the disaster started, you have 3 minutes to survive and your inventory will be clear and you will only have 1 apple to heal in case you are low on health. If you survive the disaster wave then your gear will be level up to make it stronger and more efficiently to build a better shelter, if you died when the disaster wave is not end then your gear will not be level up next wave. Each 5 waves you will have one apple (maximum amount is 10 apples) and each 10 waves you get 25 blocks.
 
+Play here: https://www.roblox.com/games/6872265039
+
 ## SETUP INSTRUCTIONS
 
 _IMPORTANT NOTE: This game mode only support 5v5, 30v30, doubles, and squads. Other game modes will bug out the game!_
